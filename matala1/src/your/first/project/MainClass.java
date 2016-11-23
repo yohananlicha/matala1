@@ -2,6 +2,6 @@ package your.first.project;
 
 public class MainClass {
 public static void main(String[] args) {
-	System.out.println("Hello Israel!");
+	System.out.println("Hello gh Israel!");
 }
 }
